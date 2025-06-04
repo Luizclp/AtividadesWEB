@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de compras</title>
+</head>
+<body>
+    <h1>Lista de compras</h1>
+    <div>
+
+      <label for="produto">Produto:</label>
+      <input type="text" id="produto">
+
+      <label for="valor">Valor:</label>
+      <input type="number" id="valor" step="0.01"><br>
+
+      <button id="adicionar">Adicionar</button>
+      <button id="limpar">Limpar lista</button>
+
+    </div>
+
+    <h2>Produtos adicionados</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Produtos</th>
+                <th>Valor</th>
+            </tr>
+        </thead>
+        <tbody id="Lista-produtos">
+
+        </tbody>
+    </table>
+
+      <h3>Total: R$ <span id="total">0.00</span></h3>
+</body>
+</html>
