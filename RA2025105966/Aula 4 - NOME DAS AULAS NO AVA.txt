@@ -1,0 +1,7 @@
+Aula 4 - Parte 1 - INDEX.HTML
+Aula 4 - Parte 2 - CONFIG.PHP
+Aula 4 - Parte 3 - CLIENTE.PHP (INSERT)
+Aula 4 - Parte 4 - CLIENTELST.PHP (SELECT - RELATÓRIO)
+Aula 4 - Parte 5 - CLIENTEDEL.PHP (DELETE - EXCLUSÃO)
+Aula 4 - Parte 6 - CLIENTEUP.PHP (UPDATE - ALTERAÇÃO)
+Aula 4 - Parte 7 - Tabela_cliente.TXT (CREATE TABLE)
